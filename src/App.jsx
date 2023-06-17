@@ -35,8 +35,6 @@ class App extends Component {
                 element.new = "hhh";
                 console.log("后",element);
                 console.log("后",index);
-                console.log("change...");
-                console.log("change haha...");
             }
         )
     }
